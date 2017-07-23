@@ -1,0 +1,5 @@
+call "cmd /c start run.bat"
+call "cmd /c start run.bat"
+call "cmd /c start run.bat"
+call "cmd /c start run.bat"
+call "cmd /c start run.bat"
