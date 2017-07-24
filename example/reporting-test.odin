@@ -62,7 +62,7 @@ An open question
 
 *QUESTION 99 *CODES 101L1
 How do we end this thing?
-1: end          *END
-2: endngb       *ENDNGB
-3: 200          *ENDST 200
-4: dropped-out  *ENDST 101
+1: end               *END
+2: endngb            *ENDNGB
+3: 200               *ENDST 200
+4: dropped-out (101) *ENDST 101
