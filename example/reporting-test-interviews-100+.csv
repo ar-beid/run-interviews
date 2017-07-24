@@ -1,159 +1,159 @@
-  1;bla bla 101;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 101;end
-  2;bla bla 102;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 102;end
-  3;bla bla 103;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 103;end
-  4;bla bla 104;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 104;end
-  5;bla bla 105;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 105;end
-  6;bla bla 106;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 106;end
-  7;bla bla 107;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 107;end
-  8;bla bla 108;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 108;end
-  9;bla bla 109;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 109;end
- 10;bla bla 110;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 110;end
- 11;bla bla 111;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 111;end
- 12;bla bla 112;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 112;end
- 13;bla bla 113;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 113;end
- 14;bla bla 114;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 114;end
- 15;bla bla 115;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 115;end
- 16;bla bla 116;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 116;end
- 17;bla bla 117;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 117;end
- 18;bla bla 118;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 118;end
- 19;bla bla 119;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 119;end
- 20;bla bla 120;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 120;end
- 21;bla bla 121;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 121;end
- 22;bla bla 122;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 122;end
- 23;bla bla 123;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 123;end
- 24;bla bla 124;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 124;end
- 25;bla bla 125;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 125;end
- 26;bla bla 126;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 126;end
- 27;bla bla 127;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 127;end
- 28;bla bla 128;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 128;end
- 29;bla bla 129;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 129;end
- 30;bla bla 130;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 130;end
- 31;bla bla 131;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 131;end
- 32;bla bla 132;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 132;end
- 33;bla bla 133;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 133;end
- 34;bla bla 134;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 134;end
- 35;bla bla 135;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 135;end
- 36;bla bla 136;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 136;end
- 37;bla bla 137;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 137;end
- 38;bla bla 138;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 138;end
- 39;bla bla 139;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 139;end
- 40;bla bla 140;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 140;end
- 41;bla bla 141;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 141;end
- 42;bla bla 142;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 142;end
- 43;bla bla 143;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 143;end
- 44;bla bla 144;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 144;end
- 45;bla bla 145;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 145;end
- 46;bla bla 146;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 146;end
- 47;bla bla 147;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 147;end
- 48;bla bla 148;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 148;end
- 49;bla bla 149;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 149;end
- 50;bla bla 150;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 150;end
- 51;bla bla 151;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 151;end
- 52;bla bla 152;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 152;end
- 53;bla bla 153;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 153;end
- 54;bla bla 154;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 154;end
- 55;bla bla 155;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 155;end
- 56;bla bla 156;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 156;end
- 57;bla bla 157;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 157;end
- 58;bla bla 158;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 158;end
- 59;bla bla 159;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 159;end
- 60;bla bla 160;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 160;end
- 61;bla bla 161;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 161;end
- 62;bla bla 162;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 162;end
- 63;bla bla 163;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 163;end
- 64;bla bla 164;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 164;end
- 65;bla bla 165;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 165;end
- 66;bla bla 166;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 166;end
- 67;bla bla 167;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 167;end
- 68;bla bla 168;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 168;end
- 69;bla bla 169;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 169;end
- 70;bla bla 170;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 170;end
- 71;bla bla 171;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 171;end
- 72;bla bla 172;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 172;end
- 73;bla bla 173;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 173;end
- 74;bla bla 174;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 174;end
- 75;bla bla 175;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 175;end
- 76;bla bla 176;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 176;end
- 77;bla bla 177;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 177;end
- 78;bla bla 178;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 178;end
- 79;bla bla 179;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 179;end
- 80;bla bla 180;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 180;end
- 81;bla bla 181;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 181;end
- 82;bla bla 182;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 182;end
- 83;bla bla 183;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 183;end
- 84;bla bla 184;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 184;end
- 85;bla bla 185;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 185;end
- 86;bla bla 186;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 186;end
- 87;bla bla 187;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 187;end
- 88;bla bla 188;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 188;end
- 89;bla bla 189;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 189;end
- 90;bla bla 190;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 190;end
- 91;bla bla 191;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 191;end
- 92;bla bla 192;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 192;end
- 93;bla bla 193;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 193;end
- 94;bla bla 194;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 194;end
- 95;bla bla 195;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 195;end
- 96;bla bla 196;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 196;end
- 97;bla bla 197;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 197;end
- 98;bla bla 198;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 198;end
- 99;bla bla 199;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 199;end
-100;bla bla 200;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 200;end
-101;bla bla 201;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 201;end
-102;bla bla 202;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 202;end
-103;bla bla 203;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 203;end
-104;bla bla 204;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 204;end
-105;bla bla 205;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 205;end
-106;bla bla 206;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 206;end
-107;bla bla 207;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 207;end
-108;bla bla 208;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 208;end
-109;bla bla 209;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 209;end
-110;bla bla 210;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 210;end
-111;bla bla 211;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 211;end
-112;bla bla 212;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 212;end
-113;bla bla 213;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 213;end
-114;bla bla 214;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 214;end
-115;bla bla 215;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 215;end
-116;bla bla 216;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 216;end
-117;bla bla 217;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 217;end
-118;bla bla 218;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 218;end
-119;bla bla 219;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 219;end
-120;bla bla 220;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 220;end
-121;bla bla 221;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 221;end
-122;bla bla 222;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 222;end
-123;bla bla 223;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 223;end
-124;bla bla 224;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 224;end
-125;bla bla 225;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 225;end
-126;bla bla 226;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 226;end
-127;bla bla 227;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 227;end
-128;bla bla 228;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 228;end
-129;bla bla 229;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 229;end
-130;bla bla 230;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 230;end
-131;bla bla 231;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 231;end
-132;bla bla 232;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 232;end
-133;bla bla 233;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 233;end
-134;bla bla 234;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 234;end
-135;bla bla 235;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 235;end
-136;bla bla 236;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 236;end
-137;bla bla 237;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 237;end
-138;bla bla 238;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 238;end
-139;bla bla 239;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 239;end
-140;bla bla 240;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 240;end
-141;bla bla 241;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 241;end
-142;bla bla 242;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 242;end
-143;bla bla 243;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 243;end
-144;bla bla 244;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 244;end
-145;bla bla 245;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 245;end
-146;bla bla 246;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 246;end
-147;bla bla 247;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 247;end
-148;bla bla 248;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 248;end
-149;bla bla 249;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 249;end
-150;bla bla 250;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 250;end
-301;bla bla 301;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 301;endngb
-302;bla bla 302;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 302;200
-303;bla bla 303;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 303;dropped-out
-304;bla bla 304;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 304;endngb
-305;bla bla 305;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 305;200
-306;bla bla 306;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 306;dropped-out
-307;bla bla 307;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 307;endngb
-308;bla bla 308;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 308;200
-309;bla bla 309;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 309;dropped-out
+1;  1;bla bla 101;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 101;end
+2;  2;bla bla 102;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 102;end
+3;  3;bla bla 103;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 103;end
+4;  4;bla bla 104;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 104;end
+5;  5;bla bla 105;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 105;end
+6;  6;bla bla 106;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 106;end
+7;  7;bla bla 107;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 107;end
+8;  8;bla bla 108;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 108;end
+9;  9;bla bla 109;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 109;end
+0; 10;bla bla 110;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 110;end
+1; 11;bla bla 111;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 111;end
+2; 12;bla bla 112;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 112;end
+3; 13;bla bla 113;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 113;end
+4; 14;bla bla 114;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 114;end
+5; 15;bla bla 115;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 115;end
+6; 16;bla bla 116;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 116;end
+7; 17;bla bla 117;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 117;end
+8; 18;bla bla 118;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 118;end
+9; 19;bla bla 119;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 119;end
+0; 20;bla bla 120;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 120;end
+1; 21;bla bla 121;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 121;end
+2; 22;bla bla 122;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 122;end
+3; 23;bla bla 123;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 123;end
+4; 24;bla bla 124;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 124;end
+5; 25;bla bla 125;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 125;end
+6; 26;bla bla 126;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 126;end
+7; 27;bla bla 127;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 127;end
+8; 28;bla bla 128;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 128;end
+9; 29;bla bla 129;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 129;end
+0; 30;bla bla 130;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 130;end
+1; 31;bla bla 131;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 131;end
+2; 32;bla bla 132;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 132;end
+3; 33;bla bla 133;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 133;end
+4; 34;bla bla 134;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 134;end
+5; 35;bla bla 135;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 135;end
+6; 36;bla bla 136;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 136;end
+7; 37;bla bla 137;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 137;end
+8; 38;bla bla 138;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 138;end
+9; 39;bla bla 139;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 139;end
+0; 40;bla bla 140;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 140;end
+1; 41;bla bla 141;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 141;end
+2; 42;bla bla 142;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 142;end
+3; 43;bla bla 143;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 143;end
+4; 44;bla bla 144;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 144;end
+5; 45;bla bla 145;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 145;end
+6; 46;bla bla 146;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 146;end
+7; 47;bla bla 147;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 147;end
+8; 48;bla bla 148;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 148;end
+9; 49;bla bla 149;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 149;end
+0; 50;bla bla 150;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 150;end
+1; 51;bla bla 151;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 151;end
+2; 52;bla bla 152;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 152;end
+3; 53;bla bla 153;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 153;end
+4; 54;bla bla 154;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 154;end
+5; 55;bla bla 155;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 155;end
+6; 56;bla bla 156;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 156;end
+7; 57;bla bla 157;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 157;end
+8; 58;bla bla 158;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 158;end
+9; 59;bla bla 159;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 159;end
+0; 60;bla bla 160;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 160;end
+1; 61;bla bla 161;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 161;end
+2; 62;bla bla 162;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 162;end
+3; 63;bla bla 163;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 163;end
+4; 64;bla bla 164;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 164;end
+5; 65;bla bla 165;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 165;end
+6; 66;bla bla 166;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 166;end
+7; 67;bla bla 167;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 167;end
+8; 68;bla bla 168;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 168;end
+9; 69;bla bla 169;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 169;end
+0; 70;bla bla 170;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 170;end
+1; 71;bla bla 171;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 171;end
+2; 72;bla bla 172;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 172;end
+3; 73;bla bla 173;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 173;end
+4; 74;bla bla 174;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 174;end
+5; 75;bla bla 175;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 175;end
+6; 76;bla bla 176;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 176;end
+7; 77;bla bla 177;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 177;end
+8; 78;bla bla 178;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 178;end
+9; 79;bla bla 179;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 179;end
+0; 80;bla bla 180;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 180;end
+1; 81;bla bla 181;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 181;end
+2; 82;bla bla 182;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 182;end
+3; 83;bla bla 183;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 183;end
+4; 84;bla bla 184;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 184;end
+5; 85;bla bla 185;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 185;end
+6; 86;bla bla 186;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 186;end
+7; 87;bla bla 187;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 187;end
+8; 88;bla bla 188;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 188;end
+9; 89;bla bla 189;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 189;end
+0; 90;bla bla 190;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 190;end
+1; 91;bla bla 191;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 191;end
+2; 92;bla bla 192;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 192;end
+3; 93;bla bla 193;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 193;end
+4; 94;bla bla 194;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 194;end
+5; 95;bla bla 195;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 195;end
+6; 96;bla bla 196;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 196;end
+7; 97;bla bla 197;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 197;end
+8; 98;bla bla 198;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 198;end
+9; 99;bla bla 199;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 199;end
+0;100;bla bla 200;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 200;end
+1;101;bla bla 201;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 201;end
+2;102;bla bla 202;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 202;end
+3;103;bla bla 203;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 203;end
+4;104;bla bla 204;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 204;end
+5;105;bla bla 205;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 205;end
+6;106;bla bla 206;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 206;end
+7;107;bla bla 207;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 207;end
+8;108;bla bla 208;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 208;end
+9;109;bla bla 209;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 209;end
+0;110;bla bla 210;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 210;end
+1;111;bla bla 211;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 211;end
+2;112;bla bla 212;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 212;end
+3;113;bla bla 213;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 213;end
+4;114;bla bla 214;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 214;end
+5;115;bla bla 215;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 215;end
+6;116;bla bla 216;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 216;end
+7;117;bla bla 217;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 217;end
+8;118;bla bla 218;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 218;end
+9;119;bla bla 219;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 219;end
+0;120;bla bla 220;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 220;end
+1;121;bla bla 221;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 221;end
+2;122;bla bla 222;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 222;end
+3;123;bla bla 223;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 223;end
+4;124;bla bla 224;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 224;end
+5;125;bla bla 225;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 225;end
+6;126;bla bla 226;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 226;end
+7;127;bla bla 227;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 227;end
+8;128;bla bla 228;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 228;end
+9;129;bla bla 229;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 229;end
+0;130;bla bla 230;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 230;end
+1;131;bla bla 231;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 231;end
+2;132;bla bla 232;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 232;end
+3;133;bla bla 233;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 233;end
+4;134;bla bla 234;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 234;end
+5;135;bla bla 235;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 235;end
+6;136;bla bla 236;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;1 Good   ;2 Average;3 Bad;DUSSS 236;end
+7;137;bla bla 237;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;2 Average;2 Average;3 Bad;DUSSS 237;end
+8;138;bla bla 238;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;3 Bad    ;2 Average;3 Bad;DUSSS 238;end
+9;139;bla bla 239;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 239;end
+0;140;bla bla 240;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;2 Average;2 Average;3 Bad;DUSSS 240;end
+1;141;bla bla 241;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;3 Bad    ;2 Average;3 Bad;DUSSS 241;end
+2;142;bla bla 242;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;1 Good   ;2 Average;3 Bad;DUSSS 242;end
+3;143;bla bla 243;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;2 Average;2 Average;3 Bad;DUSSS 243;end
+4;144;bla bla 244;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;3 Bad    ;2 Average;3 Bad;DUSSS 244;end
+5;145;bla bla 245;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;1 Good   ;2 Average;3 Bad;DUSSS 245;end
+6;146;bla bla 246;s answer 01;Item list 01;m answer 05|m answer 04;Item list 05|Item list 04;2 Average;2 Average;3 Bad;DUSSS 246;end
+7;147;bla bla 247;s answer 02;Item list 02;m answer 04|m answer 03;Item list 04|Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 247;end
+8;148;bla bla 248;s answer 03;Item list 03;m answer 03|m answer 02;Item list 03|Item list 02;1 Good   ;2 Average;3 Bad;DUSSS 248;end
+9;149;bla bla 249;s answer 04;Item list 04;m answer 02|m answer 01;Item list 02|Item list 01;2 Average;2 Average;3 Bad;DUSSS 249;end
+0;150;bla bla 250;s answer 05;Item list 05;m answer 01|m answer 05;Item list 01|Item list 05;3 Bad    ;2 Average;3 Bad;DUSSS 250;end
+1;301;bla bla 301;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 301;endngb
+2;302;bla bla 302;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 302;200
+3;303;bla bla 303;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 303;dropped-out
+1;304;bla bla 304;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 304;endngb
+2;305;bla bla 305;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 305;200
+3;306;bla bla 306;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 306;dropped-out
+1;307;bla bla 307;s answer 01;Item list 01;m answer 01;Item list 01;1 Good   ;2 Average;3 Bad;DUSSS 307;endngb
+2;308;bla bla 308;s answer 02;Item list 02;m answer 02;Item list 02;2 Average;2 Average;3 Bad;DUSSS 308;200
+3;309;bla bla 309;s answer 03;Item list 03;m answer 03;Item list 03;3 Bad    ;2 Average;3 Bad;DUSSS 309;dropped-out
