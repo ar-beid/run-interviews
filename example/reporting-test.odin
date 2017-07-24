@@ -5,13 +5,13 @@
 4: Item list 04
 5: Item list 05
 
-*QUESTION 10 *NUMBER 61L2 *BUT 99 "Don't know"
+*QUESTION 10 *NUMBER 61L3 *BUT 999 "Don't know"
 A numeric question
 
-*QUESTION 20 *ALPHA 63L20
+*QUESTION 20 *ALPHA 64L20
 An alpha question
 
-*QUESTION 30 *CODES 83L1 *BUT 9 "Don't know"
+*QUESTION 30 *CODES 84L1 *BUT 9 "Don't know"
 A single codes question no list
 1: s answer 01
 2: s answer 02
@@ -19,11 +19,11 @@ A single codes question no list
 4: s answer 04
 5: s answer 05
 
-*QUESTION 35 *CODES 84L1
+*QUESTION 35 *CODES 85L1
 A single codes question - list
 *USELIST "aList"
 
-*QUESTION 40 *CODES 85L5 *MULTI *ROT
+*QUESTION 40 *CODES 86L5 *MULTI *ROT
 A multi codes question no list and ROT
 1: m answer 01
 2: m answer 02
@@ -31,17 +31,17 @@ A multi codes question no list and ROT
 4: m answer 04
 5: m answer 05 
 
-*QUESTION 45 *CODES 90L5 *MULTI
+*QUESTION 45 *CODES 91L5 *MULTI
 A multi codes question - list
 *USELIST "aList"
 
 *TEXTVARS varRepeat
 
-*REPEAT 3 *FIELD 95L3
+*REPEAT 3 *FIELD 96L3
 
-  *IF [?R=1] *PUT varRepeat "01"
-  *IF [?R=2] *PUT varRepeat "02"
-  *IF [?R=3] *PUT varRepeat "03"
+  *IF [?R = 1] *PUT varRepeat "01"
+  *IF [?R = 2] *PUT varRepeat "02"
+  *IF [?R = 3] *PUT varRepeat "03"
 
   *TABLE "Rrrepeat *? varRepeat"
   
@@ -54,10 +54,10 @@ A multi codes question - list
 
 *ENDREP
 
-*QUESTION 70 *OPEN 98L1
+*QUESTION 70 *OPEN 99L1
 An open question
 
-*QUESTION 99 *CODES 99L1
+*QUESTION 99 *CODES 100L1
 How do we end this thing?
 1: end          *END
 2: endngb       *ENDNGB
