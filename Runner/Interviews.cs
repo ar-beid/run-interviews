@@ -9,7 +9,7 @@ namespace Runner
     public static class Interviews        
     {
 
-        const int SLEEP = 300;
+        const int SLEEP = 500;
 
         public static void Answer(IEnumerable<string[]> interviews)
         {
@@ -33,7 +33,9 @@ namespace Runner
 
                     // wait a bit to load next page
                     Sleep(SLEEP);
-                    InterviewPage.Next();
+
+                    // user button moves you to the next question
+                    if (answer != "U-B") InterviewPage.Next();
                 }
 
                 WriteConsole(interview);
@@ -44,6 +46,12 @@ namespace Runner
         private static void AnswerQuestion(string questionType, string answer)
         {
             answer = answer.Trim();
+
+            if (answer == "U-B")
+            {
+                InterviewPage.UserButton();
+                return;
+            }
 
             switch (questionType)
             {

@@ -54,5 +54,13 @@ namespace Framework
             var box = Driver.FindElement(By.CssSelector("input.open.alpha"));
             box.SendKeys(answer);
         }
+
+        public static void UserButton()
+        {
+            // assumption: user button is the first in the nav container
+            var buttons = Driver.FindElements(By.CssSelector("#navigation-container input"));
+            buttons[0].Click();
+        }
+
     }
 }
