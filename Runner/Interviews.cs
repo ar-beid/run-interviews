@@ -30,12 +30,6 @@ namespace Runner
                     var questionType = questionTypes[0][i];
                     var answer = answers[i];
                     AnswerQuestion(questionType, answer);
-
-                    // wait a bit to load next page
-                    Sleep(SLEEP);
-
-                    // user button moves you to the next question
-                    if (answer != "U-B") InterviewPage.Next();
                 }
 
                 WriteConsole(interview);
@@ -49,6 +43,9 @@ namespace Runner
 
             if (answer == "U-B")
             {
+                // wait a bit to load next page
+                Sleep(SLEEP);
+                // user button moves you to the next question
                 InterviewPage.UserButton();
                 return;
             }
@@ -71,6 +68,10 @@ namespace Runner
                     InterviewPage.AnswerAlpha(answer);
                     break;
             }
+
+            // wait a bit to load next page
+            Sleep(SLEEP);
+            InterviewPage.Next();
         }
 
         private static void ProcessMultiCode(string multiAnswer)
