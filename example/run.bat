@@ -1,8 +1,8 @@
 @echo off
 
-SET URL=https://red-interviewing.niposoftware-dev.com/Interviews/cGvxV/MMiaGOJwxo8qnVhmBUMd
+SET URL=https://interviewing.nfieldbeta.com/Interviews/Jwxn7/8LuZcccpDufbuKsmWYsH
 
-SET INTERVIEWS=C:\wrk\ar-beid\run-interviews\example\reporting-test-interviews-exit.csv
+SET INTERVIEWS=C:\wrk\ar-beid\run-interviews\example\reporting-test-interviews-100+.csv
 SET QNAIRE=C:\wrk\ar-beid\run-interviews\example\reporting-test-questionnaire.csv
 
 SET EXE=C:\wrk\ar-beid\run-interviews\Runner\bin\Debug\runner.exe
