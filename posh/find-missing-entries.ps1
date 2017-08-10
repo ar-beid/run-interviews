@@ -3,7 +3,10 @@
  
 $input1 = Get-Content $args[0] 
 $input2 = Get-Content $args[1] 
- 
+
+[array]::Sort($input1)
+[array]::Sort($input2)
+
 foreach ($i2 in $input2) 
 { 
   foreach ($i1 in $input1) 
