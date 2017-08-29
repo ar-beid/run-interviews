@@ -1,7 +1,7 @@
 @echo off
 
 SET RUN_FILE=run-simple.bat
-SET COUNT=1
+SET COUNT=10
 
 @echo # of runs: %COUNT%
 
