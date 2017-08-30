@@ -1,8 +1,15 @@
 @echo off
 
 SET RUN_FILE=run-simple.bat
-SET COUNT=10
 
-@echo # of runs: %COUNT%
-
-FOR /L %%i IN (1, 1, %COUNT%) DO call "cmd /c start "run:%%i" %RUN_FILE%"
+ call "cmd /c start "interrrviews 1" %RUN_FILE%"
+ call "cmd /c start "interrrviews 2" %RUN_FILE%"
+ call "cmd /c start "interrrviews 3" %RUN_FILE%"
+ call "cmd /c start "interrrviews 4" %RUN_FILE%"
+ call "cmd /c start "interrrviews 5" %RUN_FILE%"
+ call "cmd /c start "interrrviews 6" %RUN_FILE%"
+ call "cmd /c start "interrrviews 7" %RUN_FILE%"
+ call "cmd /c start "interrrviews 8" %RUN_FILE%"
+ call "cmd /c start "interrrviews 9" %RUN_FILE%"
+ call "cmd /c start "interrrviews 10" %RUN_FILE%"
+ 
