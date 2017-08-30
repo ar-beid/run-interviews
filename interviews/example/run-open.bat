@@ -1,6 +1,6 @@
 @echo off
 
-SET URL=https://interviewing.nfieldbeta.com/Interviews/Jwxn7/gzp3O4F8Iyw1fp0O2ns1
+SET URL=https://red-interviewing.niposoftware-dev.com/Interviews/m2IXp/O5BzDKdZGONQZUowYNMN
 
 SET INTERVIEWS=C:\wrk\ar-beid\work\interviews\example\open-i.csv
 SET QNAIRE=C:\wrk\ar-beid\work\interviews\example\open-q.csv

@@ -9,7 +9,7 @@ namespace Runner
     public static class Interviews        
     {
 
-        const int SLEEP = 500;
+        const int SLEEP = 1000;
 
         public static void Answer(IEnumerable<string[]> interviews)
         {
