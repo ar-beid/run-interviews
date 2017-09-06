@@ -20,12 +20,22 @@ namespace Runner
 
             foreach (var answers in interviews)
             {
-                InterviewPage.Goto(Arguments.InterviewingUrl);
+                // first column could be a repsondent key
+                int start = 0;
+                var url = Arguments.InterviewingUrl;
+
+                if (questionTypes[0][0] == "RESPONDENT")
+                {
+                    start = 1;
+                    url = $@"{url}\{answers[0]}";
+                }
+
+                InterviewPage.Goto(url);
 
                 // wait a bit to answer 1th question
                 Sleep(SLEEP);
 
-                for (var i = 0; i < answers.Length; i++)
+                for (var i = start; i < answers.Length; i++)
                 {
                     var questionType = questionTypes[0][i];
                     var answer = answers[i];
