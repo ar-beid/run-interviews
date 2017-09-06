@@ -17,12 +17,17 @@ function question2($i)
   ""
 }
 
-$loop = 10000
+$loop = (100000 - 61)
 
-$file = "E:\kit\posh\01\misc\script-$loop.odin"
-del $file
+$file = "C:\wrk\ar-beid\work\posh\script-$loop.odin"
+Remove-Item $file
 
-for($i=1; $i -le ($loop); $i++)
+"*page" | Out-File $file -append
+"generated: $(Get-Date -format 'u')" | Out-File $file -append
+"loop: $loop" | Out-File $file -append
+"" | Out-File $file -append
+
+for($i=1; $i -le $loop; $i++)
 {
     (question2 $i) | Out-File $file -append
 }
