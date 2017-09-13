@@ -77,6 +77,9 @@ namespace Runner
                 case "ALPHA":
                     InterviewPage.AnswerAlpha(answer);
                     break;
+                case "NEXT":
+                    // do nothing; NEXT is called below
+                    break;
             }
 
             // wait a bit to load next page
